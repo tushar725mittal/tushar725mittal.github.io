@@ -4,6 +4,7 @@
     "price": 80,
     "description":"Two Items",
     "subscriptonPrice": 1500,
+    "isNonveg": false;
     "image": "https://source.unsplash.com/random/?indianfood"
   },
   
@@ -12,6 +13,7 @@
     "price": 110,
     "description":"Three Items",
     "subscriptonPrice": 2000,
+    "isNonveg": false;
     "image": "https://source.unsplash.com/random/?indianfood"
   },
   
@@ -20,6 +22,7 @@
     "price": 140,
     "description":"4 items Meal (includes Smoothie / Energy Drink  (120-150ml)",
     "subscriptonPrice": 2500,
+    "isNonveg": false;
     "image": "https://source.unsplash.com/random/?indianfood"
   }
 ]
