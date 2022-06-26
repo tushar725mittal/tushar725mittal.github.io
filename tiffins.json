@@ -35,7 +35,7 @@
     "description":"5 items Meal (includes Smoothie / Energy Drink  (120-150ml)",
     "subscriptonPrice": 3000,
     "isNonVeg": false,
-    "noOfItems": 5;
+    "noOfItems": 5,
     "image": "https://source.unsplash.com/random/?indianfood"
   }
 ]
