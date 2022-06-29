@@ -1,0 +1,275 @@
+[
+    {
+        "name": "Plan One",
+        "firstWeek": [
+            {
+                "day": "Monday",
+                "food": "Nutri Carrot Parath with Desi Ghee (2 no.)\nPeas Mashroom Curry (1 cup)"
+            },
+            {
+                "day": "Tuesday",
+                "food": "Ragi Uttapam (2 mini pan cake size) + Coconut Chutney"
+            },
+            {
+                "day": "Wednesday",
+                "food": "Multigrain Veg Cheela (2 no. ) + Green Chutney\nZucchini Sprouts Soup"
+            },
+            {
+                "day": "Thursday",
+                "food": "Paneer jwar Roti + dal Makhani\nGreen Salad"
+            },
+            {
+                "day": "Friday",
+                "food": "Veggie Wraps with Spinach n beetroot Tortia bread (2 N0.)\nChocochips Cookies"
+            }
+        ],
+        "secondWeek": [
+            {
+                "day": "Monday",
+                "food": "Carrot Cheese & flex seeds sandwich"
+            },
+            {
+                "day": "Tuesday",
+                "food": "Hammus & Pita Bread\nCorn Rice pan Cake"
+            },
+            {
+                "day": "Wednesday",
+                "food": "PASTA with Paneer & Cheese "
+            },
+            {
+                "day": "Thursday",
+                "food": "Pumpkin tofu stuff paratha & Chutney \nDairy Milk Chocolate"
+            },
+            {
+                "day": "Friday",
+                "food": "Poha with sprout & Spinach\nBeetrrot Carrot juice"
+            }
+        ],
+        "thirdWeek": [
+            {
+                "day": "Monday",
+                "food": "Creamy Vegetable Sandwich  with ciabata bread\nChips (baked)"
+            },
+            {
+                "day": "Tuesday",
+                "food": "Makke ke roti & sarso ka Sag\nBeet & carrot salad"
+            },
+            {
+                "day": "Wednesday",
+                "food": "Red Kidney Beans and cheese Burrito\nPotato fry (baked)"
+            },
+            {
+                "day": "Thursday",
+                "food": "Paneer Burji Hot Dog\nFrench Fries (Baked)"
+            },
+            {
+                "day": "Friday",
+                "food": "Bread pizza roll UPS  (Multigrain Bread)"
+            }
+        ],
+        "fourthWeek": [
+            {
+                "day": "Monday",
+                "food": "Beetroot Carrot paratha\nGreen Chutney & Sweet Curt"
+            },
+            {
+                "day": "Tuesday",
+                "food": "Eggless buckwheat oats pancake"
+            },
+            {
+                "day": "Wednesday",
+                "food": "Mushroom paneer Biryani\nParsley pomegranate chickpea raita"
+            },
+            {
+                "day": "Thursday",
+                "food": "Minty corn roll with coriander chutney\nLentil & tomato soup"
+            },
+            {
+                "day": "Friday",
+                "food": "Burger with green gram corn cutlet\nBaked fries"
+            }
+        ]
+    },
+    {
+        "name": "Plan Two",
+        "firstWeek": [
+            {
+                "day": "Monday",
+                "food": "Fruit Salad (1 cup) & Veg Rice (1 Cup)\nNutri Carrot Parath with Desi Ghee (2 no.)\nPeas Mashroom Curry (1 cup)"
+            },
+            {
+                "day": "Tuesday",
+                "food": "Veg Cheese sandwich\nRagi Uttapam (2 mini pan cake size) + Coconut Chutney"
+            },
+            {
+                "day": "Wednesday",
+                "food": "Broccoli Cutlet, Chocolate Roll\nMultigrain Veg Cheela (2 no. ) + Green Chutney\nZucchini Sprouts Soup"
+            },
+            {
+                "day": "Thursday",
+                "food": "Basmati  Rice (1 cup)\nPaneer jwar Roti + dal Makhani\nGreen Salad"
+            },
+            {
+                "day": "Friday",
+                "food": "Peanut Butter & Fruit Jam with Multigrain bread\nVeggie Wraps with Spinach n beetroot Tortia bread (2 N0.)\nChocochips Cookies"
+            }
+        ],
+        "secondWeek": [
+            {
+                "day": "Monday",
+                "food": "Apple banana Chocolate Milk Shake\nCarrot Cheese & flex seeds sandwich"
+            },
+            {
+                "day": "Tuesday",
+                "food": "Chana & Soya Cutlet\nHammus & Pita Bread\nCorn Rice pan Cake"
+            },
+            {
+                "day": "Wednesday",
+                "food": "Garlic Bread\nPASTA with Paneer & Cheese "
+            },
+            {
+                "day": "Thursday",
+                "food": "Masala Maggie (Wheat)\nPumpkin tofu stuff paratha & Chutney \nDairy Milk Chocolate"
+            },
+            {
+                "day": "Friday",
+                "food": "Nachani Khakara\nPoha with sprout & Spinach\nBeetrrot Carrot juice"
+            }
+        ],
+        "thirdWeek": [
+            {
+                "day": "Monday",
+                "food": "Rose Milk Shake\nCreamy Vegetable Sandwich  with ciabata bread\nChips (baked)"
+            },
+            {
+                "day": "Tuesday",
+                "food": "Carrot Halwa\nMakke ke roti & sarso ka Sag\nBeet & carrot salad"
+            },
+            {
+                "day": "Wednesday",
+                "food": "Ice cream Sunade\nRed Kidney Beans and cheese Burrito\nPotato fry (baked)"
+            },
+            {
+                "day": "Thursday",
+                "food": "Pineapple & Berry Milk Shake\nPaneer Burji Hot Dog\nFrench Fries (Baked)"
+            },
+            {
+                "day": "Friday",
+                "food": "Chocolate Sandwich\nBread pizza roll UPS  (Multigrain Bread)"
+            }
+        ],
+        "fourthWeek": [
+            {
+                "day": "Monday",
+                "food": "Lemon tart\nBeetroot Carrot paratha\nGreen Chutney & Sweet Curt"
+            },
+            {
+                "day": "Tuesday",
+                "food": "Aspargus nutty salad\nEggless buckwheat oats pancake"
+            },
+            {
+                "day": "Wednesday",
+                "food": "Besan ladoo with desi ghee\nMushroom paneer Biryani\nParsley pomegranate chickpea raita"
+            },
+            {
+                "day": "Thursday",
+                "food": "Strawberry Oatmeal Bas\nMinty corn roll with coriander chutney\nLentil & tomato soup"
+            },
+            {
+                "day": "Friday",
+                "food": "Broccoli carrot clear soup\nBurger with green gram corn cutlet\nBaked fries"
+            }
+        ]
+    },
+    {
+        "name": "Plan Two",
+        "firstWeek": [
+            {
+                "day": "Monday",
+                "food": "DryFruit Shake (Cashew, Almond, Dates & Figs)\nFruit Salad (1 cup) & Veg Rice (1 Cup)\nNutri Carrot Parath with Desi Ghee (2 no.)\nPeas Mashroom Curry (1 cup)"
+            },
+            {
+                "day": "Tuesday",
+                "food": "Mix Fruits Shake\nVeg Cheese sandwich\nRagi Uttapam (2 mini pan cake size) + Coconut Chutney"
+            },
+            {
+                "day": "Wednesday",
+                "food": "Chocolate/Oreo Thick Shake With (Without sugar)\nBroccoli Cutlet, Chocolate Roll\nMultigrain Veg Cheela (2 no. ) + Green Chutney\nZucchini Sprouts Soup"
+            },
+            {
+                "day": "Thursday",
+                "food": "Fruit Juice with fresh fruits\nBasmati Rice (1 cup)\nPaneer jwar Roti + dal Makhani\nGreen Salad"
+            },
+            {
+                "day": "Friday",
+                "food": "Banana Shake with Berries\nPeanut Butter & Fruit Jam with Multigrain bread\nVeggie Wraps with Spinach n beetroot Tortia bread (2 N0.)\nChocochips Cookies"
+            }
+        ],
+        "secondWeek": [
+            {
+                "day": "Monday",
+                "food": "Makhana Puding with Dry fruits\nApple banana Chocolate Milk Shake\nCarrot Cheese & flex seeds sandwich"
+            },
+            {
+                "day": "Tuesday",
+                "food": "Walnut cake Slice & Almond Milk\nChana & Soya Cutlet\nHammus & Pita Bread\nCorn Rice pan Cake"
+            },
+            {
+                "day": "Wednesday",
+                "food": "Strawberry Shake\nGarlic Bread\nPASTA with Paneer & Cheese "
+            },
+            {
+                "day": "Thursday",
+                "food": "Fig & Apricot Milk shake\nMasala Maggie (Wheat)\nPumpkin tofu stuff paratha & Chutney \nDairy Milk Chocolate"
+            },
+            {
+                "day": "Friday",
+                "food": "Italian Kulcha Pizza\nNachani Khakara\nPoha with sprout & Spinach\nBeetrrot Carrot juice"
+            }
+        ],
+        "thirdWeek": [
+            {
+                "day": "Monday",
+                "food": "Healthy banana Muffin\nRose Milk Shake\nCreamy Vegetable Sandwich  with ciabata bread\nChips (baked)"
+            },
+            {
+                "day": "Tuesday",
+                "food": "Special Dish ( Le Pasto Spl)\nCarrot Halwa\nMakke ke roti & sarso ka Sag\nBeet & carrot salad"
+            },
+            {
+                "day": "Wednesday",
+                "food": "Brownie with chocolate topping\nIce cream Sunade\nRed Kidney Beans and cheese Burrito\nPotato fry (baked)"
+            },
+            {
+                "day": "Thursday",
+                "food": "Marshmallow Crunchy Brownie\nPineapple & Berry Milk Shake\nPaneer Burji Hot Dog\nFrench Fries (Baked)"
+            },
+            {
+                "day": "Friday",
+                "food": "Chocolate Peanut butter banana bites\nChocolate Sandwich\nBread pizza roll UPS  (Multigrain Bread)"
+            }
+        ],
+        "fourthWeek": [
+            {
+                "day": "Monday",
+                "food": "Chocolate Kiwi Pops\nLemon tart\nBeetroot Carrot paratha\nGreen Chutney & Sweet Curt"
+            },
+            {
+                "day": "Tuesday",
+                "food": "Mini Apple pie\nAspargus nutty salad\nEggless buckwheat oats pancake"
+            },
+            {
+                "day": "Wednesday",
+                "food": "Dryfruit Ladoo with desi ghee\nBesan ladoo with desi ghee\nMushroom paneer Biryani\nParsley pomegranate chickpea raita"
+            },
+            {
+                "day": "Thursday",
+                "food": "Almond & banana Milk Shake\nStrawberry Oatmeal Bas\nMinty corn roll with coriander chutney\nLentil & tomato soup"
+            },
+            {
+                "day": "Friday",
+                "food": "Apple Chia seed Smoothie\nBroccoli carrot clear soup\nBurger with green gram corn cutlet\nBaked fries"
+            }
+        ]
+    }
+]
