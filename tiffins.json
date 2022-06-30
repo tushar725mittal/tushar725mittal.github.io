@@ -12,10 +12,10 @@
   {
     "name":"LePasto Tiffin Two",
     "price": 110,
-    "description":"Two Items",
+    "description":"Three Items",
     "subscriptonPrice": 2000,
     "isNonVeg": false,
-    "noOfItems": 2,
+    "noOfItems": 3,
     "image": "https://source.unsplash.com/random/?indianfood"
   },
   
