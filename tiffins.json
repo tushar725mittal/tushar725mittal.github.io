@@ -3,7 +3,7 @@
     "name":"LePasto Tiffin One",
     "price": 80,
     "description":"Two Items",
-    "subscriptonPrice": 1500,
+    "subscriptionPrice": 1500,
     "isNonVeg": false,
     "noOfItems": 2,
     "image": "https://source.unsplash.com/random/?indianfood"
@@ -13,7 +13,7 @@
     "name":"LePasto Tiffin Two",
     "price": 110,
     "description":"Three Items",
-    "subscriptonPrice": 2000,
+    "subscriptionPrice": 2000,
     "isNonVeg": false,
     "noOfItems": 3,
     "image": "https://source.unsplash.com/random/?indianfood"
@@ -23,7 +23,7 @@
     "name":"LePasto Tiffin Three",
     "price": 140,
     "description":"4 items Meal (includes Smoothie / Energy Drink  (120-150ml)",
-    "subscriptonPrice": 2500,
+    "subscriptionPrice": 2500,
     "isNonVeg": false,
     "noOfItems": 4,
     "image": "https://source.unsplash.com/random/?indianfood"
