@@ -14,7 +14,7 @@
     "price": 110,
     "description":"Two Items",
     "subscriptonPrice": 2000,
-    "isNonVeg": true,
+    "isNonVeg": false,
     "noOfItems": 2,
     "image": "https://source.unsplash.com/random/?indianfood"
   },
@@ -29,13 +29,4 @@
     "image": "https://source.unsplash.com/random/?indianfood"
   },
   
-  {
-    "name":"LePasto Tiffin Four",
-    "price": 170,
-    "description":"5 items Meal (includes Smoothie / Energy Drink  (120-150ml)",
-    "subscriptonPrice": 3000,
-    "isNonVeg": true,
-    "noOfItems": 5,
-    "image": "https://source.unsplash.com/random/?indianfood"
-  }
 ]
