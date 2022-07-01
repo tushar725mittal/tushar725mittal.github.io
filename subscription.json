@@ -1,6 +1,9 @@
 [
   {
     "name" : "Plan One",
+    "subsciptionType" : "1 Month",
+    "subscriptionID" : "C651561",
+    "image" : "https://source.unsplash.com/random/?indianfood",
     "endDate" : 1688061137632,
     "startDate" : 1656574830457,
     "takeAwayAddress" : "A",
@@ -8,6 +11,9 @@
   },  
   {
     "name" : "Plan Two",
+    "subsciptionType" : "1 Month",
+    "subscriptionID" : "C651561",
+    "image" : null,
     "endDate" : 1688061137632,
     "startDate" : 1656574830457,
     "takeAwayAddress" : "B",
