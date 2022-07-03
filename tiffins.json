@@ -1,6 +1,6 @@
 [
   {
-    "name":"LePasto Tiffin One",
+    "name":"Roll No 21 Meal",
     "price": 80,
     "description":"Two Items",
     "subscriptionPrice": 1500,
@@ -10,7 +10,7 @@
   },
   
   {
-    "name":"LePasto Tiffin Two",
+    "name":"Motu patalu Meal",
     "price": 110,
     "description":"Three Items",
     "subscriptionPrice": 2000,
@@ -20,7 +20,7 @@
   },
   
   {
-    "name":"LePasto Tiffin Three",
+    "name":"Chota bheem meal 140",
     "price": 140,
     "description":"4 items Meal (includes Smoothie / Energy Drink  (120-150ml)",
     "subscriptionPrice": 2500,
