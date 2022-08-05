@@ -1,8 +1,8 @@
 [
   {
-    "name":"Roll No 21 Meal",
+    "name":"BAMBINI MEAL",
     "price": 80,
-    "description":"Two Items",
+    "description":"AGE - 5-10 YEARS 300-400 CAL",
     "subscriptionPrice": 1500,
     "isNonVeg": false,
     "noOfItems": 2,
@@ -10,9 +10,9 @@
   },
   
   {
-    "name":"Motu Patlu Meal",
-    "price": 110,
-    "description":"Three Items",
+    "name":"IN CRECITA MEAL",
+    "price": 120,
+    "description":"AGE - 8-13 YEARS 450-400 CAL",
     "subscriptionPrice": 2000,
     "isNonVeg": false,
     "noOfItems": 3,
@@ -20,9 +20,9 @@
   },
   
   {
-    "name":"Chota Bheem Meal",
-    "price": 140,
-    "description":"4 items Meal (includes Smoothie / Energy Drink  (120-150ml)",
+    "name":"CRESCERE MEAL",
+    "price": 160,
+    "description":"AGE - 10-15 YEARS 650-750 CAL",
     "subscriptionPrice": 2500,
     "isNonVeg": false,
     "noOfItems": 4,
