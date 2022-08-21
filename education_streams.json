@@ -1,41 +1,34 @@
 [
-  {
-    "Examination System": "Semester",
-    "Intake": 17.0,
-    "Level": "Under Graduate",
-    "Name of Department": "Harbour Engineering and Ocean Technology",
-    "Name of Discipline": "BE-Harbour Engineering",
-    "Name of Faculty": "Engineering",
-    "Name of Institution": "Academy of Maritime Education and Training, Chennai (Id: U-0434)",
-    "Programme": "B.E.-Bachelor of Engineering"
-  },
-  {
-    "Examination System": "Semester",
-    "Intake": 44.0,
-    "Level": "Under Graduate",
-    "Name of Department": "Marine Electrical and Electronics Engineering",
-    "Name of Discipline": "BE-Marine Electrical and Electronics Engineering",
-    "Name of Faculty": "Engineering",
-    "Name of Institution": "Academy of Maritime Education and Training, Chennai (Id: U-0434)",
-    "Programme": "B.E.-Bachelor of Engineering"
-  },
-  {
-    "Examination System": "Semester",
-    "Intake": 193.0,
-    "Level": "Under Graduate",
-    "Name of Department": "Marine Engineering",
-    "Name of Discipline": "BE-Marine Engineering",
-    "Name of Faculty": "Engineering",
-    "Name of Institution": "Academy of Maritime Education and Training, Chennai (Id: U-0434)",
-    "Programme": "B.E.-Bachelor of Engineering"
-  },
-  {
-    "Examination System": "Semester",
-    "Intake": 148.0,
-    "Level": "Under Graduate",
-    "Name of Department": "Naval Architecture and Offshore Engineering",
-    "Name of Discipline": "BE-Naval Architecture",
-    "Name of Faculty": "Engineering",
-    "Name of Institution": "Academy of Maritime Education and Training, Chennai (Id: U-0434)",
-    "Programme": "B.E.-Bachelor of Engineering"
-  }]
+    {
+        "notifyDate" : "2022-08-15",
+        "examDate" : "2022-09-15",
+        "examName" : "JEE MAINS 2022",
+        "examDomain" : "STEM",
+        "examDescription" : "JEE MAINS 2022, jbsaflasbaflbgalgbalgbagbaglbfakdg",
+        "link" : "https://www.google.com"
+    },
+    {
+        "notifyDate" : "2022-08-15",
+        "examDate" : "2022-08-15",
+        "examName" : "JEE ADVANCE 2022",
+        "examDomain" : "STEM - ADVANCE",
+        "examDescription" : "JEE ADVANCE 2022, ;QQLBFH0BFALJJFBJSDGBLAS",
+        "link" : "https://www.yahoo.com"
+    },
+    {
+        "notifyDate" : "2022-05-15",
+        "examDate" : "2022-07-15",
+        "examName" : "JEE ADVANCE 2022",
+        "examDomain" : "STEM - ADVANCE",
+        "examDescription" : "JEE ADVANCE 2022, ;QQLBFH0BFALJJFBJSDGBLAS",
+        "link" : "https://www.yahoo.com"
+    },
+    {
+        "notifyDate" : "2022-08-10",
+        "examDate" : "2022-08-13",
+        "examName" : "JEE ADVANCE 2022",
+        "examDomain" : "STEM - ADVANCE",
+        "examDescription" : "JEE ADVANCE 2022, ;QQLBFH0BFALJJFBJSDGBLAS",
+        "link" : "https://www.yahoo.com"
+    }
+]
